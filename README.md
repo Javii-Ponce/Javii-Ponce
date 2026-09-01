@@ -66,7 +66,11 @@ Computer Science graduate building web applications and growing my skills throug
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Javii-Ponce&bg_color=00000000&color=e387b8&line=e387b8&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/Javii-Ponce/Javii-Ponce/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub contribution snake"
+  />
 </p>
 
 ### 💭 Dev Quote
